@@ -1,32 +1,39 @@
-schema: hugoblox/author/v1
-slug: me
-is_owner: true
-name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
-  pronunciation: Chien Shiung Wu
-  pronouns: she/her
-status:
-  icon: "☕️"
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-affiliations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-links:
-  - icon: at-symbol
-    url: mailto:your-email@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/MakeOwnable
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+title: Арина Никитенко
+role: Студентка
+bio: |
+  Меня зовут Арина Никитенко. Мне 18 лет. Учусь на физико-математическом факультете Российского университета дружбы народов (РУДН) на направлении "Математика и компьютерные науки". Студентка группы НКАбд-07-25.
+  
+  🎿 **Спортсменка:**
+  Занимаюсь лыжными гонками и спортивным ориентированием. Многократный победитель чемпионатов области по лыжным гонкам, чемпионка области 2022, 2023, 2024 годов. В спортивном ориентировании — участница Чемпионата России, где заняла 7 место.
+  
+  📚 **Учёба:**
+  Увлекаюсь математикой и программированием. Победитель региональной олимпиады по математике (2024).
+  
+  📖 **Интересы:**
+  В свободное время читаю книги, занимаюсь спортом, изучаю новые технологии в области компьютерных наук.
+organizations:
+  - name: РУДН
+    url: https://rudn.ru
+social:
+  - icon: envelope
+    link: mailto:arina.nikitenko2007@mail.ru
+  - icon: brands/github
+    link: https://github.com/aanikitenko
+  - icon: brands/telegram
+    link: https://t.me/arina_nikitenko
+  - icon: brands/vk
+    link: https://vk.com/arina_nikitenko
+education:
+  - course: Математика и компьютерные науки
+    institution: РУДН
+    year: 2025-2029 (1 курс)
+  - course: Среднее общее образование
+    institution: Лицей им. Д.А. Фурманова
+    year: 2025
+interests:
+  - Математика
+  - Программирование
+  - Лыжные гонки
+  - Спортивное ориентирование
+  - Чтение книг
+  - Информационные технологии
