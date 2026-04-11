@@ -41,7 +41,7 @@ sections:
       title: "📝 Последние записи"
       filters:
         folders:
-          - blog
+          - post
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
